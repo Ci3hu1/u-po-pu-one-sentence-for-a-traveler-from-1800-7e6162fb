@@ -11,6 +11,12 @@
 - Results: 16 Dec 2026
 - Field at triage: 15 submissions (near-empty small table)
 - Entry: v1, 162 chars, one sentence (see README.md)
-- Live rank: TBD (blind rounds — no live score until a round is judged)
+- Live rank: TBD (blind rounds — no live score until a round is judged; R1 24 Nov 17:03 WIB)
 - Live score: TBD
-- Submitted: no — waiting for Joni's 'Setuju' on this exact entry
+- Submitted: yes — 24 Nov 2026 ~13:34 WIB, on Joni's "Setuju 4 bounty"
+  - Submission: 01a20c43-6665-7128-b58f-0ea8e7630324, stage "submitted" (checks still processing at submit; grading backlog, re-check after 5 min — do not resubmit)
+  - Entry commit: d87ba71102a452f3e07ea35a5d56f093f2d2c43c
+  - Bundle: ~/workspace/tools/makefun/bundles/u-po-pu-one-sentence-for-a-traveler-from-1800-7e6162fb.tar.gz, sha256 9e64f7770af59ad3861ab9baabba9c76ffc6720f4e766d7f509f482a1afd30e9
+  - Kit check: ok=true, zero failures (repo_public / repo_owner / commit_in_repo deferred to submission-time checks)
+  - Claim code saved ONLY to ~/.config/makefun/u-po-pu-one-sentence-for-a-traveler-from-1800-7e6162fb-submission.json (0600)
+  - Counts from round 1 of 3; next round cutoff 24 Nov 17:03 WIB
